@@ -9,7 +9,7 @@ em arquivos binários e mapa de quartos em matriz.
 |---|---|---|
 | 1 | Hóspedes | `include/hospede.h`, `src/hospede.c` |
 | 2 | Quartos / Matriz | `include/quarto.h`, `src/quarto.c` |
-| 3 | Reservas (check-in/out) | `include/reserva.h`, `src/reserva.c` |
+| 3 felipe| Reservas (check-in/out) | `include/reserva.h`, `src/reserva.c` |
 | 4 | Persistência (arquivos .dat) | `include/persistencia.h`, `src/persistencia.c` |
 | 5 | Menu / Integração | `src/main.c` |
 
