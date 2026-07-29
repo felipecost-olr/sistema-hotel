@@ -65,7 +65,10 @@ int main(void) {
                 scanf("%d", &idHospede);
                 limparBufferEntrada();
 
-                printf("Numero do quarto: ");
+                printf("\nQuartos disponiveis:\n");
+                listarQuartosDisponiveis();
+
+                printf("\nNumero do quarto: ");
                 scanf("%d", &numeroQuarto);
                 limparBufferEntrada();
 
